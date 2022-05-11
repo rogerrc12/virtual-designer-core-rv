@@ -42,7 +42,7 @@ function App() {
         </div>
         <div className="flex justify-center items-center my-5">
           <a
-            href="https://core-ice.com/models/"
+            href="https://core-rv.com/models/"
             target="_blank"
             rel="noopener noreferrer"
             className="uppercase font-bold py-4 px-12 text-white"
