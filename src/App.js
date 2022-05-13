@@ -24,8 +24,8 @@ function App() {
           <h1>Visualize Your CORE</h1>
           <hr className="border-dashed my-4" />
           <p>
-            The "Visualize Your CORE" displays the color selections for the CORE ICE 8019 ATX. 6511 and 6515 Models only have one solid color choice for the exterior of the unit.
-            6519, 8019, and 8025 Models have multiple color choices.
+            The "Visualize Your CORE" displays the color selections for the CORE ICE 8019 ATX RV Edition. 5510 Models only have one solid color choice for the exterior of the unit.
+            8026 Models have three color choices.
           </p>
         </div>
         <div className="rounded-xl mt-8 w-full md:w-2/3 m-auto px-10 px-4">
